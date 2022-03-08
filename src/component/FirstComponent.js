@@ -5,7 +5,7 @@ class FirstComponent extends Component{
         return(
             <> 
             <h1> My First Class Component </h1>
-            <p> virtual dom</p>
+           
             </>   
         )
 
